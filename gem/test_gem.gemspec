@@ -6,8 +6,9 @@ Gem::Specification.new do |s|
   s.name        = "test_gem"
   s.version     = TestGem::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Shelby Doolittle"]
-  s.email       = ["shelby@shelbyd.com"]
+  s.authors     = [""]
+  s.email       = [""]
+  s.summary     = 'Some summary'
 
   s.add_development_dependency "rspec", "~>2.5.0"
 
